@@ -1,0 +1,45 @@
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\bin\Debug\Restaurant management.exe.config
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\bin\Debug\Restaurant management.exe
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\bin\Debug\Restaurant management.pdb
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\obj\Debug\Restaurant management.csprojResolveAssemblyReference.cache
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\obj\Debug\Restaurant_management.Form1.resources
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\obj\Debug\Restaurant_management.Properties.Resources.resources
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\obj\Debug\Restaurant management.csproj.GenerateResource.Cache
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\obj\Debug\Restaurant management.exe
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\obj\Debug\Restaurant management.pdb
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\obj\Debug\Restaurant_management.Order.resources
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\obj\Debug\Restaurant_management.Form3.resources
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\obj\Debug\Restaurant_management.Form4.resources
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\obj\Debug\Restaurant_management.Form5.resources
+c:\users\rahi\documents\visual studio 2015\Projects\Restaurant management\Restaurant management\obj\Debug\Restaurant_management.reservation.resources
+G:\Restaurant management\Restaurant management\bin\Debug\Restaurant management.exe.config
+G:\Restaurant management\Restaurant management\obj\Debug\Restaurant management.exe
+G:\Restaurant management\Restaurant management\obj\Debug\Restaurant management.pdb
+C:\Users\Abir ahmed\Desktop\Restaurant management\bin\Debug\Restaurant management.exe.config
+C:\Users\Abir ahmed\Desktop\Restaurant management\obj\Debug\Restaurant management.exe
+C:\Users\Abir ahmed\Desktop\Restaurant management\obj\Debug\Restaurant management.pdb
+C:\Users\Abir ahmed\Desktop\Restaurant management\bin\Debug\Restaurant management.exe
+C:\Users\Abir ahmed\Desktop\Restaurant management\bin\Debug\Restaurant management.pdb
+C:\Users\Abir ahmed\Desktop\Restaurant management\obj\Debug\Restaurant management.csprojResolveAssemblyReference.cache
+C:\Users\Abir ahmed\Desktop\Restaurant management\obj\Debug\Restaurant_management.Form1.resources
+C:\Users\Abir ahmed\Desktop\Restaurant management\obj\Debug\Restaurant_management.Form3.resources
+C:\Users\Abir ahmed\Desktop\Restaurant management\obj\Debug\Restaurant_management.Form4.resources
+C:\Users\Abir ahmed\Desktop\Restaurant management\obj\Debug\Restaurant_management.Form5.resources
+C:\Users\Abir ahmed\Desktop\Restaurant management\obj\Debug\Restaurant_management.Order.resources
+C:\Users\Abir ahmed\Desktop\Restaurant management\obj\Debug\Restaurant_management.Properties.Resources.resources
+C:\Users\Abir ahmed\Desktop\Restaurant management\obj\Debug\Restaurant_management.reservation.resources
+C:\Users\Abir ahmed\Desktop\Restaurant management\obj\Debug\Restaurant management.csproj.GenerateResource.Cache
+E:\@@@Softwar and Games\restrument\Restaurant management\bin\Debug\Restaurant management.exe.config
+E:\@@@Softwar and Games\restrument\Restaurant management\obj\Debug\Restaurant management.exe
+E:\@@@Softwar and Games\restrument\Restaurant management\obj\Debug\Restaurant management.pdb
+E:\@@@Softwar and Games\restrument\Restaurant management\bin\Debug\Restaurant management.exe
+E:\@@@Softwar and Games\restrument\Restaurant management\bin\Debug\Restaurant management.pdb
+E:\@@@Softwar and Games\restrument\Restaurant management\obj\Debug\Restaurant management.csprojResolveAssemblyReference.cache
+E:\@@@Softwar and Games\restrument\Restaurant management\obj\Debug\Restaurant_management.Form1.resources
+E:\@@@Softwar and Games\restrument\Restaurant management\obj\Debug\Restaurant_management.Form3.resources
+E:\@@@Softwar and Games\restrument\Restaurant management\obj\Debug\Restaurant_management.Form4.resources
+E:\@@@Softwar and Games\restrument\Restaurant management\obj\Debug\Restaurant_management.Form5.resources
+E:\@@@Softwar and Games\restrument\Restaurant management\obj\Debug\Restaurant_management.Order.resources
+E:\@@@Softwar and Games\restrument\Restaurant management\obj\Debug\Restaurant_management.Properties.Resources.resources
+E:\@@@Softwar and Games\restrument\Restaurant management\obj\Debug\Restaurant_management.reservation.resources
+E:\@@@Softwar and Games\restrument\Restaurant management\obj\Debug\Restaurant management.csproj.GenerateResource.Cache
